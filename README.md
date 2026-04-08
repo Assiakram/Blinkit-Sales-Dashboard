@@ -1,4 +1,3 @@
-# Blinkit-Sales-Dashboard
 #  Blinkit Sales & Outlet Analysis Dashboard (Power BI)
 
 ##  Description
